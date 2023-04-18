@@ -13,7 +13,7 @@ public class Main {
 	    rio.setCarburante("gasolina");
 	    rio.arrancar();
 	    
-	    System.out.println("El color del coche modelo rio es " + rio.getColor());
+	    System.out.println("El nombre del fabricante para el modelo rio es " + rio.getFabricante());
 
     
 	    Coche supra = new Coche(null,null,null,null,null,null); 
