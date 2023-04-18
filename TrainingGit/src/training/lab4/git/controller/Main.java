@@ -26,7 +26,7 @@ public class Main {
 	    supra.setCarburante("gasolina");
 	    supra.arrancar();
 	    
-	    System.out.println("El color del coche modelo supra es " + supra.getColor());
+	    System.out.println("El nombre del fabricante para el modelo supra es " + supra.getFabricante());
 
 	}
 
