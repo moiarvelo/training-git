@@ -14,6 +14,7 @@ public class Main {
 	    rio.arrancar();
 	    
 	    System.out.println("El nombre del fabricante para el modelo rio es " + rio.getFabricante());
+	    System.out.println("Hola esta una prueba para hacer merge con la rama master ");
 
     
 	    Coche supra = new Coche(null,null,null,null,null,null); 
